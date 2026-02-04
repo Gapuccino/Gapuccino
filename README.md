@@ -11,7 +11,7 @@
 ---
 
 ### 👨‍💻 Sobre mí
-Tengo **24 años** y soy un desarrollador en constante crecimiento. Me especializo en crear experiencias web fluidas y atractivas.
+Tengo **25 años** y soy un desarrollador en constante crecimiento. Me especializo en crear experiencias web fluidas y atractivas.
 
 - 🏢 Actualmente trabajo en **Metro News World** 📰.
 - 🌱 Estoy perfeccionando mis habilidades en **Frontend Development**.
