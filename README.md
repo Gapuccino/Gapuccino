@@ -9,18 +9,18 @@
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Frontend+Developer;Especialista+en+Web+Performance;Entusiasta+del+SEO+T%C3%A9cnico;Licenciado+en+Ciencias+de+la+Inform%C3%A1tica" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Desarrollador+Fullstack;Especialista+en+Web+Performance;Entusiasta+del+SEO+T%C3%A9cnico;Licenciado+en+Ciencias+de+la+Inform%C3%A1tica" alt="Typing Animation" />
 </div>
 
 ---
 
 ### Sobre mí
 
-Soy un **Frontend Developer y Marketing Technologist** de 25 años radicado en la CDMX. Me apasiona construir experiencias web fluidas, escalables y orientadas al rendimiento.
+Soy un **Desarrollador Fullstack y Marketing Technologist** de 25 años radicado en la CDMX. Me apasiona construir experiencias web fluidas, escalables y orientadas al rendimiento desde el backend hasta el frontend.
 
 - **Formación:** Licenciado en Ciencias de la Informática (UPIICSA - IPN).
-- **Actualidad:** Desarrollando interfaces y optimizando el rendimiento (Core Web Vitals) para sitios de alto tráfico en **Metro World News**.
-- **Proyectos:** Creando plataformas modernas como *Solara Markets* utilizando arquitecturas robustas e integraciones de pagos.
+- **Actualidad:** Desarrollando soluciones integrales y optimizando el rendimiento web en **Echopoint**.
+- **Proyectos:** Construyendo plataformas modernas como *Solara Markets* utilizando arquitecturas robustas e integraciones de pagos.
 - **Enfoque de crecimiento:** Llevando mi inglés a un nivel avanzado y perfeccionando implementaciones SSR y SEO Técnico.
 - **Mi filosofía:** Código limpio, UI/UX intuitivo y tiempos de carga ultrarrápidos.
 
