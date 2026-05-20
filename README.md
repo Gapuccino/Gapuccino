@@ -1,8 +1,4 @@
-# ¡Hola, soy Gabriel Rueda! 👋
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=42&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Gabriel+Rueda;G+A+P+U+C+C+I+N+O" alt="Nombre Animado" />
-</div>
+# ¡Hola, soy Gabriel Rueda!
 
 <div align="center">
   <a href="https://portfolio-woad-two-79.vercel.app/">
@@ -13,74 +9,74 @@
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Desarrollador+Fullstack;Arquitecto+de+Soluciones+Web;Especialista+en+Web+Performance;Experto+en+Astro+Framework;Licenciado+en+Ciencias+de+la+Inform%C3%A1tica" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Desarrollador+Fullstack;Arquitecto+de+Soluciones+Web;Especialista+en+Astro+y+Performance;Licenciado+en+Ciencias+de+la+Inform%C3%A1tica" alt="Typing Animation" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="./sans.gif" width="120" alt="Sans Animation" />
 </div>
 
 ---
 
 ### Sobre mí
 
-Soy un **Desarrollador Fullstack y Arquitecto de Soluciones Web** de 25 años radicado en la CDMX. Me apasiona construir experiencias web fluidas, escalables y orientadas al rendimiento, desde la infraestructura en la nube hasta el frontend. Mi enfoque actual es la creación de plataformas web modernas con arquitecturas robustas y tiempos de carga ultrarrápidos.
+Soy un **Desarrollador Fullstack y Marketing Technologist** de 25 años radicado en la CDMX. Me especializo en construir ecosistemas web de alto rendimiento, asegurando una integración perfecta entre la infraestructura en la nube y la experiencia del usuario final.
 
 - **Formación:** Licenciado en Ciencias de la Informática (UPIICSA - IPN).
-- **Actualidad:** Optimizando soluciones Fullstack y rendimiento web en **Echopoint**.
-- **Mi pasion actual:** **Astro Framework**. Me encanta su enfoque en la eliminación de JavaScript innecesario y su capacidad para construir sitios estáticos increíblemente rápidos.
-- **Enfoque de crecimiento:** Profundizando en arquitecturas con Astro (SSG/SSR), escalabilidad de bases de datos (PostgreSQL), y automatización de infraestructura con AWS.
-- **Filosofía de desarrollo:** Código limpio, mantenibilidad, y rendimiento como métrica principal (Core Web Vitals).
-
----
-
-### Mi Pasión: Astro Framework
-
-<div align="center">
-  <a href="https://astro.build/">
-    <img src="https://astro.build/logos/astro-logo-dark.svg" width="300" alt="Logo de Astro" />
-  </a>
-</div>
-<br>
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Creando+plataformas+con+Astro;Alto+Rendimiento;Menos+JavaScript;M%C3Creando+plataformas+con+Astro;Alto+Rendimiento;Menos+JavaScript;Más+Velocidad" alt="Astro Focus Animation" />
-</div>
-
-<br>
+- **Puesto Actual:** Desarrollador Fullstack en **Echopoint**, empresa de consultoría de TI.
+- **Proyectos Actuales:** Diseño y desarrollo integral de un broker financiero, una landing page corporativa optimizada para conversión y un sistema CRM a medida para la gestión interna de datos en tiempo real.
+- **Enfoque técnico:** Implementación de arquitecturas SSG/SSR con Astro, gestión de infraestructura escalable en AWS y optimización avanzada de caché con Cloudflare. Integración y desarrollo sobre CMS empresariales como **Arc XP**.
+- **Filosofía:** Código limpio, escalabilidad y rendimiento como prioridad absoluta.
 
 ---
 
 ### Tech Stack y Habilidades
 
-He organizado mis habilidades en dos cuadrículas animadas para una mejor visualización. Mi enfoque es Fullstack, con un fuerte núcleo en Frontend y optimización.
-
-#### Core Frontend
-
+**Frontend & Frameworks**
 <div align="left">
-  <a href="https://github.com/shuding/readme-icons">
-    <img src="https://shuding.vercel.app/api/readme-icons?theme=dark&icons=astro,react,typescript,javascript,html5,css3,bootstrap,tailwind,nextjs" alt="Core Frontend Icons" />
-  </a>
+  <img src="https://img.shields.io/badge/Astro-0C0E15?style=for-the-badge&logo=astro&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_18-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </div>
 
 <br>
 
-#### Backend, Infraestructura y Herramientas
-
+**Backend & Data Management**
 <div align="left">
-  <a href="https://github.com/shuding/readme-icons">
-    <img src="https://shuding.vercel.app/api/readme-icons?theme=dark&icons=python,postgresql,sqlite,fastapi,git,github,docker,aws,linux,cloudflare,supabase,vercel,stripe" alt="Backend & Infra Icons" />
-  </a>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white" />
 </div>
 
 <br>
 
-También tengo experiencia trabajando con **Arc XP CMS** y **Strapi CMS**.
+**Infraestructura, Cloud & CMS**
+<div align="left">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Arc_XP-000000?style=for-the-badge&logo=arc-xp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Strapi-2E7EEA?style=for-the-badge&logo=strapi&logoColor=white" />
+</div>
 
 ---
 
 ### Mis Estadísticas en GitHub
 
-<div align="center">
-  <a href="https://github.com/Gapuccino">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Gapuccino&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de Gapuccino" />
-  </a>
-  <a href="https://github.com/Gapuccino">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gapuccino&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" />
-  </a>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gapuccino&show_icons=true&theme=radical" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gapuccino&layout=compact&theme=radical" height="150" alt="Top Languages" />
+</p>
